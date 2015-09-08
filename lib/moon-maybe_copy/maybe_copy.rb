@@ -3,7 +3,7 @@ class Object
   # is returned instead.
   #
   # @return [Object, self]
-  def safe_dup
+  def maybe_dup
     dup
   rescue TypeError
     self
@@ -14,7 +14,7 @@ class Object
   # Copied objects will preserve their frozen state.
   #
   # @return [Object, self]
-  def safe_clone
+  def maybe_clone
     clone
   rescue TypeError
     self

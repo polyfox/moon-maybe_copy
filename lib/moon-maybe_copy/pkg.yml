@@ -1,0 +1,6 @@
+---
+name: Maybe Copy
+author: IceDragon200 (Corey Powell) (mistdragon100@gmail.com)
+description: "Defines #maybe_dup for objects to be safely duplicated, or just return self"
+require: _basalt.rb
+deps: []

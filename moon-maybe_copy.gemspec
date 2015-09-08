@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name        = 'moon-safe_copy'
-  s.summary     = 'Moon Safe Copy package.'
-  s.description = 'Defines #safe_dup'
-  s.homepage    = 'https://github.com/polyfox/moon-safe_copy'
+  s.name        = 'moon-maybe_copy'
+  s.summary     = 'Moon Maybe Copy package.'
+  s.description = 'Defines #maybe_dup'
+  s.homepage    = 'https://github.com/polyfox/moon-maybe_copy'
   s.email       = 'mistdragon100@gmail.com'
-  s.version     = '1.0.0'
+  s.version     = '1.1.0'
   s.platform    = Gem::Platform::RUBY
   s.date        = Time.now.to_date.to_s
   s.license     = 'MIT'
