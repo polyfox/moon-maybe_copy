@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.description = 'Defines #maybe_dup'
   s.homepage    = 'https://github.com/polyfox/moon-maybe_copy'
   s.email       = 'mistdragon100@gmail.com'
-  s.version     = '1.1.0'
+  s.version     = '1.1.1'
   s.platform    = Gem::Platform::RUBY
   s.date        = Time.now.to_date.to_s
   s.license     = 'MIT'
