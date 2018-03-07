@@ -1,3 +1,5 @@
+require 'date'
+
 Gem::Specification.new do |s|
   s.name        = 'moon-maybe_copy'
   s.summary     = 'Moon Maybe Copy package.'
